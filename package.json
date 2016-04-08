@@ -1,0 +1,23 @@
+{
+  "name": "express-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "mocha",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billpatrianakos/express-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billpatrianakos/express-from-scratch/issues"
+  },
+  "homepage": "https://github.com/billpatrianakos/express-from-scratch#readme",
+  "dependencies": {
+    "mongoose": "^4.4.11"
+  }
+}
